@@ -1,3 +1,1 @@
-# mawaskow.github.io
-
-# this is my website
+#### [About](./about.html)&nbsp; &nbsp; &nbsp;[Official Projects](./offic_proj.html)&nbsp; &nbsp; &nbsp;[Unofficial Projects](./unoffic_proj.html)&nbsp; &nbsp; &nbsp; [Activities](./activities.html)&nbsp;
